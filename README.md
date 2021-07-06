@@ -1,6 +1,7 @@
 # SalaryPrediction
 Deployment of ML Models in Heroku using Flask Framework
 
+
 # Steps to Deploy
 1. Train the model.
 2. Create Web App using Flask
@@ -8,4 +9,10 @@ Deployment of ML Models in Heroku using Flask Framework
 4. Link the github to heroku
 5. Deploy the model
 
+
+# Project Link( You can run with this link)
+https://salary-sai-api.herokuapp.com/
+
+
+# Webpage
 ![Salaryprediction png](https://user-images.githubusercontent.com/85541665/124635165-bfdf0900-dea4-11eb-8d69-c937d2f5014a.jpg)
