@@ -8,3 +8,4 @@ Deployment of ML Models in Heroku using Flask Framework
 4. Link the github to heroku
 5. Deploy the model
 
+![Salaryprediction png](https://user-images.githubusercontent.com/85541665/124635165-bfdf0900-dea4-11eb-8d69-c937d2f5014a.jpg)
